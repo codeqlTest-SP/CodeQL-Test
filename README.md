@@ -1,3 +1,5 @@
+# Este diretorio é uma copia do projeto WebGoat, realizado com o objetivo de entender o uso do CODEQL, sendo assim esse não é o projeto Oficial
+
 # WebGoat: A deliberately insecure Web Application
 
 [![Build](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml)
